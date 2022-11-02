@@ -1,7 +1,7 @@
 {
-  "name": "rss-mailer",
-  "version": "0.0.2",
-  "description": "RssMailer",
+  "name": "yhsrssmailer",
+  "version": "0.0.1",
+  "description": "Rss2Mail",
   "main": "index.js",
   "bin": {
     "rssmailer": "dist/bin/rssmailer.js"
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WayneGongCN/rss-mailer.git"
+    "url": "git+https://github.com/cyhcyh/yhsrssmailer.git"
   },
-  "author": "waynegong <me@waynegong.cn>",
+  "author": "yhchen <yhchen2019@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/WayneGongCN/rss-mailer",
+  "homepage": "https://github.com/cyhcyh/yhsrssmailer",
   "dependencies": {
     "@types/ejs": "^3.1.0",
     "@types/node": "^17.0.24",
